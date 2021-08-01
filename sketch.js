@@ -61,13 +61,13 @@ function draw(){
     box2.display();
     ground.display();
     pig1.display();
-    pig1.score();
+   // pig1.score();
     log1.display();
 
     box3.display();
     box4.display();
     pig3.display();
-    pig3.score();
+    //pig3.score();
     log3.display();
 
     box5.display();
